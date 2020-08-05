@@ -10,3 +10,14 @@ There are no updates at this time.
 
 ## Errata
 To report errata, please [create an issue here](https://github.com/benpiper/benpiper.github.io/issues/new?assignees=&labels=&template=errata-template.md&title=%5BErrata%5D).
+
+### Chapter 5
+#### Page 156, Configuring OSPF> Authentication > Configuring Area Authentication
+
+The `router ospf 1` command is missing from R1's configuration:
+
+```
+! Enable area 0 authentication using MD5
+R1(config)router ospf 1
+R1(config-router)#area 0 authentication message-digest
+```
