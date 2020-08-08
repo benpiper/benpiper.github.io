@@ -21,3 +21,8 @@ The `router ospf 1` command is missing from R1's configuration:
 R1(config)router ospf 1
 R1(config-router)#area 0 authentication message-digest
 ```
+### Chapter 10
+
+The answer to review question 10 is "C. IKE uses UDP/500."
+
+The answer to review question 11 is "A. ESP uses IP protocol 50."
