@@ -11,6 +11,10 @@ There are no updates at this time.
 ## Errata
 To report errata, please [create an issue here](https://github.com/benpiper/benpiper.github.io/issues/new?assignees=&labels=&template=errata-template.md&title=%5BErrata%5D).
 
+### Chapter 2
+
+Review question 16 is missing option "D. Root Guard."
+
 ### Chapter 5
 #### Page 156, Configuring OSPF> Authentication > Configuring Area Authentication
 
