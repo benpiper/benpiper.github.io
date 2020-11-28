@@ -11,6 +11,11 @@ There are no updates at this time.
 ## Errata
 To report errata, please [create an issue here](https://github.com/benpiper/benpiper.github.io/issues/new?assignees=&labels=&template=errata-template.md&title=%5BErrata%5D).
 
+### Chapter 1
+### Page 14, Layer 3: The Network Layer > Forwarding Between Subnets
+
+Item 1. "Host A compares its IP address with Router B's IP" should read "Host A compares its IP address with Host B's IP".
+
 ### Chapter 2
 
 Review question 16 is missing option "D. Root Guard."
